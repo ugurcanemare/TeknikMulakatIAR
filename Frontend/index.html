@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Frontend Örnek</title>
+</head>
+
+
+
+<body>
+  <div class="navbar">
+    <a href="#">Anasayfa</a>
+    <div class="cart-icon">
+      <span class="count">0</span>
+      <a href="#">Alışveriş Sepeti</a>
+    </div>
+    <div>
+      <input id="searchInput" type="text" placeholder="Arama...">
+    </div>
+  </div>
+
+  <div class="card-container">
+    <div class="card">
+      <img class="card-img" src="img/monitor.jpg" alt="">
+      <p class="card-body">Monitör</p>
+      <button onclick="addToCart(this)">Sepete Ekle</button>
+    </div>
+
+    <div class="card">
+      <img class="card-img" src="img/klavye.jpg" alt="">
+      <p class="card-body">Klavye</p>
+      <button onclick="addToCart(this)">Sepete Ekle</button>
+    </div>
+
+    <div class="card">
+      <img class="card-img" src="img/mouse.jpg" alt="">
+      <p class="card-body">Mouse</p>
+      <button onclick="addToCart(this)">Sepete Ekle</button>
+    </div>
+
+    <div class="card">
+      <img class="card-img" src="img/kasa.jpg" alt="">
+      <p class="card-body">Kasa</p>
+      <button onclick="addToCart(this)">Sepete Ekle</button>
+    </div>
+
+    <div class="card">
+      <img class="card-img" src="img/ekrankarti.jpg" alt="">
+      <p class="card-body">Ekran Kartı</p>
+      <button onclick="addToCart(this)">Sepete Ekle</button>
+    </div>
+  </div>
+</body>
+
+<script src="app.js"></script>
+
+</html>

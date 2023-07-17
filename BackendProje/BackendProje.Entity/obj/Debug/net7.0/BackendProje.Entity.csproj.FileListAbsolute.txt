@@ -1,0 +1,12 @@
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\bin\Debug\net7.0\BackendProje.Entity.deps.json
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\bin\Debug\net7.0\BackendProje.Entity.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\bin\Debug\net7.0\BackendProje.Entity.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.csproj.AssemblyReference.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.AssemblyInfoInputs.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.AssemblyInfo.cs
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.csproj.CoreCompileInputs.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\refint\BackendProje.Entity.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\BackendProje.Entity.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Entity\obj\Debug\net7.0\ref\BackendProje.Entity.dll

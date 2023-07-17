@@ -1,0 +1,17 @@
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\bin\Debug\net7.0\BackendProje.Data.deps.json
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\bin\Debug\net7.0\BackendProje.Data.runtimeconfig.json
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\bin\Debug\net7.0\BackendProje.Data.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\bin\Debug\net7.0\BackendProje.Data.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\bin\Debug\net7.0\BackendProje.Entity.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\bin\Debug\net7.0\BackendProje.Entity.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.csproj.AssemblyReference.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.AssemblyInfoInputs.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.AssemblyInfo.cs
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.csproj.CoreCompileInputs.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.csproj.CopyComplete
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\refint\BackendProje.Data.dll
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.pdb
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\BackendProje.Data.genruntimeconfig.cache
+C:\Users\EMARE\OneDrive\Masaüstü\UgurcanProje-main\BackendProje\BackendProje.Data\obj\Debug\net7.0\ref\BackendProje.Data.dll
